@@ -97,6 +97,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/@senimesh/@senimesh/output/snake.svg" alt="Snake animation" />
 
 ###
