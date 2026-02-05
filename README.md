@@ -40,19 +40,14 @@ I enjoy solving problems and staying active through **calisthenics, basketball, 
 
 ---
 
- GitHub Stats
+ <!-- GitHub Profile Stats -->
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=senimesh&show_icons=true&theme=radical)](https://github.com/senimesh)
 
-<div align="center">
-  <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=senimesh&show_icons=true&theme=cobalt&count_private=true&hide=prs,issues" alt="GitHub Stats" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senimesh&theme=cobalt" alt="GitHub Streak" />
-  
-  <!-- Optional: Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senimesh&layout=compact&theme=cobalt&hide=html" alt="Top Languages" />
-</div>
----
+<!-- GitHub Streak -->
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=senimesh&theme=radical)](https://github.com/senimesh)
+
+<!-- Top Languages -->
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=senimesh&layout=compact&theme=radical)](https://github.com/senimesh)
 
  🔗 Connect with Me
 
