@@ -41,13 +41,13 @@ I enjoy solving problems and staying active through **calisthenics, basketball, 
 ---
 
  <!-- GitHub Profile Stats -->
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=senimesh&show_icons=true&theme=radical)](https://github.com/senimesh)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sennimesh&show_icons=true&theme=radical)](https://github.com/senimesh)
 
 <!-- GitHub Streak -->
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=senimesh&theme=radical)](https://github.com/senimesh)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sennimesh&theme=radical)](https://github.com/senimesh)
 
 <!-- Top Languages -->
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=senimesh&layout=compact&theme=radical)](https://github.com/senimesh)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=sennimesh&layout=compact&theme=radical)](https://github.com/senimesh)
 
  🔗 Connect with Me
 
